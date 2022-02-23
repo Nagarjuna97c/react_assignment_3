@@ -1,0 +1,14 @@
+.button {
+  background: transparent;
+  border: none;
+  outline: none;
+  margin: 9px;
+  font-size: 25px;
+  color: #ffffff;
+  border-bottom: solid 2px #ffffff;
+}
+
+.button1 {
+  color: #fec653;
+  border-bottom: solid 2px #fec653;
+}
